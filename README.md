@@ -1,2 +1,2 @@
 # hello-world
-github example
+guides.github.com/activities/hello-world/
